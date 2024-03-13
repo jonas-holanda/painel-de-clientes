@@ -9,7 +9,7 @@ function NoMatch() {
                     <h1>404</h1>
                     <h2>PÁGINA NÃO ENCONTRADA</h2>
                 </div>
-                <div className="notFound-gif"><img src="/src/assets/images/tenor.gif" /></div>
+                <div className="notFound-gif"><img src="/images/tenor.gif" /></div>
             </section>
         </>
     );

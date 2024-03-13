@@ -7,7 +7,7 @@ function Home() {
         <>
             <main className="container">
                 <figure className="banner">
-                    <img src="/src/assets/images/banner.webp" alt="banner do site"/>
+                    <img src="/images/banner.webp" alt="banner do site"/>
                 </figure>
             </main>
         </>
