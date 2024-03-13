@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px) {
+
+    .container-add_clientes >  form {
+        width: 100%;
+    }
+
+    .container-add_clientes >  form > .form_group > button {
+        width: 80%;
+    }
+
+}

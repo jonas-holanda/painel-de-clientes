@@ -1,0 +1,15 @@
+@media screen and (max-width: 768px) {
+
+    .container-clientes {
+        padding: 1rem .5rem;
+    }
+
+    .table {
+        width: 100%;
+    }
+
+    .table, td, th {
+        padding: .1rem;
+    }
+
+}

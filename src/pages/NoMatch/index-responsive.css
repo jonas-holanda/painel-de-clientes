@@ -1,0 +1,7 @@
+@media screen and (max-width: 768px) {
+
+    .notFound > .notFound-message > h1 {
+        font-size: 3rem;
+    }
+
+}

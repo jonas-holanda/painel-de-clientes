@@ -1,0 +1,59 @@
+.darkmode {   
+    background-color: #202124;
+    color: #fff;
+}
+
+.header {
+    width: 100%;
+    background-color: #23407e;
+    color: #fff;
+    margin-bottom: 1rem;
+}
+
+.header > ul {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    padding: .3rem;
+}
+
+.header > ul > li {
+    text-align: center;
+    margin: 0 .5rem;
+    padding: 1rem;
+    border-radius: .2rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.header > ul > li:hover {
+    background-color: #20629e;
+    transform: scale(1.02);
+}
+
+.header > ul > li:last-child.last {
+    background-color: #0466c8;
+    position: absolute;
+    right: 0;
+}
+
+.header > ul > li:last-child.last > button {
+    text-transform: uppercase;
+    font-weight: 600;
+    background-color: inherit;
+    border: none;
+    color: #fff;
+}
+
+.active {
+    background-color: #01aeb1;
+    color: #fff;
+}
+
+.active:hover {
+    background-color: #1b9aaa !important;
+}
