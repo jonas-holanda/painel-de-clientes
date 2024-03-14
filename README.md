@@ -4,6 +4,9 @@
 
 </div>
 
+[demo.webm](https://github.com/jonas-holanda/painel-de-clientes/assets/138180385/5a046fa1-cf7f-4fe7-bcf8-7ab63396e6fe)
+
+
 **Ao longo do curso aprendemos sobre Javascript, NodeJs, Express e o ORM Sequelize para podermos criar um CRUD.** 
 **Também vimos sobre React, HTML e CSS para o frontend da nossa aplicação, junto com o Axios para fazermos essa ligação com a API do backend.**
 
