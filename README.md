@@ -35,6 +35,7 @@
 - **E por fim, estilizei os formulários de Adicionar e Editar Cliente.**
 - **Também deixei o site responsivo. (A parte do listar clientes não ficou 100% responsivo, pode ter sido a tabela. Mas ficou legal)**
 
+### ‼️ Aviso: O serviço web gratuito de MYSQL que eu utilizava expirou, por isso não está dando para utilizar o backend para mexer no CRUD do sistema online. 
 
 **Link do site: [https://painel-de-clientes.vercel.app/](https://painel-de-clientes.vercel.app/)**
 
